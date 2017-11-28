@@ -1,0 +1,3 @@
+ RMS 0.007536809425801
+ Spearman 1.000000000000000
+ Precision on top 100 for Collborative :  1.000000000000000
